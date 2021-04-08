@@ -1,0 +1,23 @@
+#details{
+    text-align: center;
+    border-bottom: 5px solid rgb(5, 59, 77);
+    background-color:lightgreen ;
+    display: block;
+}
+.contact-details{
+    margin-top: -20px;
+}
+.heading{
+    text-align: center;
+    background-color: lightgreen;
+ 
+  
+}
+.content{
+margin: 0px 100px;
+}
+footer{
+    background-color:lightgreen ;
+    padding: 20px; ;
+    border-top: 5px solid rgb(5, 59, 77);
+}
